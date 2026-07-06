@@ -1,0 +1,16 @@
+# Virtual machine disk and export artifacts
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# Logs and local operating system files
+*.log
+Thumbs.db
+.DS_Store
+
+# Local notes that may contain private lab details
+notes/
+*.local.md
